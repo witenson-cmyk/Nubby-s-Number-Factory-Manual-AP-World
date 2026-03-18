@@ -463,19 +463,20 @@
     "requires": ""
   },
   {
-    "name": "1 Googol",
+    "name": "Win with 4 Supervisors",
     "victory": true,
     "category": [
       "Goal"
     ],
-    "requires": "|Balogna Tony| and |Wingless Fly|"
+    "requires": "|@Supervisor:4|"
   },
   {
     "name": "10 Restocks",
     "category": [
       "Restocks"
     ],
-    "requires": ""
+    "requires": "",
+    "victory": false
   },
   {
     "name": "20 Restocks",
