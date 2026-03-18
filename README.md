@@ -2,8 +2,7 @@
 Manual AP World for Nubby's Number Factory
 
 * Runs start with 1 trainee
-* Goal is to get 1 googol points
-  * Reccomended method is to use Balogna Tony and Wingless fly to get infinite multiplicative points, there are other methods but that is the most popular one I've seen and is the method in logic.
+* Goal is to win a run (Round 80) with 4 different Supervisors
 * Checks are on every round completed up to 80, every 10 restocks up to 99 restocks at once, and boss rounds.
  
 ## What is Randomized
