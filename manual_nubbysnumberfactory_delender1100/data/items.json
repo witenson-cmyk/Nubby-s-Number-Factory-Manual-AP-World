@@ -1,0 +1,698 @@
+[
+  {
+    "count": "1",
+    "name": "Pants",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cactus",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flame Thrower",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Monstrosity",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crazy Straw",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Evil Goose",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flaming Skull",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sea Cucumber",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pedro",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Finger Puppet",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jacks",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "1 Ton of Feathers",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dancing Dino",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Squirmy",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Socket",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kazoo",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Uranium Rod",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Happy Seal",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Friendly Rock",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tardigrade",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Plastic Tree",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Cheese House",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Disguise Glasses",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Two Headed Turtle",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Poop Butt",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "E-Block",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "T-Block",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lobster Claw",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Nose",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rubber Chicken",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Yeti",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Squid",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Laser Pointer",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "All-Seeing Pyramid",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Inflatable Dolphin",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "3D-Glasses",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Horse Pill",
+    "category": [
+      "Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stawberry",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "HotDog-Dog",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shish Kebab",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kidney Bean",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pickle Rat",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jolly Jelly",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chip",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Soup Crackers",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tri-Bagel",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Noodle",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tart Lard",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Croissant",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dave",
+    "category": [
+      "Food"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lentil",
+    "category": [
+      "Food"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Avocado",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fava Bean",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Donut",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Starfruit",
+    "category": [
+      "Food"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jake the Snake",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Toy Fish",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "The Pointer",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Asbestos",
+    "category": [
+      "Black Market Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wingless Fly",
+    "category": [
+      "Black Market Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mannequin Head",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ouroboros",
+    "category": [
+      "Black Market Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alien",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fly Agaric",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Clay-Man-Guy",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "King Baby",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fish Man",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pregnancy test",
+    "category": [
+      "Black Market Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flibby Flobbies",
+    "category": [
+      "Black Market Item"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Item Slot",
+    "category": [
+      "Item Slots"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Common Perks",
+    "category": [
+      "Perks"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Rare Perks",
+    "category": [
+      "Perks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ultra Rare Perks",
+    "category": [
+      "Perks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Shop Rerolls",
+    "category": [
+      "Gameplay"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Octo-ny",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tony Jr.",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Goblony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mutant Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Glass Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hunter Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Balogna Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Criminal Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "C.E.O. Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Immortal Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dwarf Tony",
+    "category": [
+      "Supervisor"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Peg Jumbling",
+    "category": [
+      "Gameplay"
+    ],
+    "useful": true
+  }
+]
