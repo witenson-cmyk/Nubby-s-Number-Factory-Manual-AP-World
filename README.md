@@ -12,7 +12,7 @@ Manual AP World for Nubby's Number Factory
   * That or remove the trainees you haven't unlocked yet from the AP.
 * Every Single Item
 * Rarities of Perks
-   * I thought about having every perk as an item, but that would be far too many checks, and individual perks are less useful than a new item
+  * I thought about having every perk as an item, but that would be far too many checks, and individual perks are less useful than a new item
 * Item slots beyond the first
 * Food items in the Cafe
 * Being able to upgrade Items
