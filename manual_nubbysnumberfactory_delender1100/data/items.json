@@ -693,6 +693,14 @@
     "category": [
       "Gameplay"
     ],
-    "useful": true
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Item Upgrades",
+    "category": [
+      "Gameplay"
+    ],
+    "progression": true
   }
 ]
